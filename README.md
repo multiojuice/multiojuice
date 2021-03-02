@@ -10,5 +10,5 @@
 - Writing a generic distributed systems task scheduler for ML, graphics rendering and project compiling. 
 
 #### Guild
-- Looking for a summer or summer+fall internship. I will be graduating December 2021. (Or maybe a Programming Languages and Tools masters?)
-- Check out my resume (It will be placed in [this repo](https://github.com/multiojuice/multiojuice)
+- Looking for a summer or summer+fall internship. I will be graduating December 2021.
+- Check out my resume (It will be placed in [this repo](https://github.com/multiojuice/multiojuice))
